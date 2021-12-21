@@ -3,6 +3,6 @@
     public enum State
     {
         Ok,
-        Cancel
+        Cancel,
     }
 }
